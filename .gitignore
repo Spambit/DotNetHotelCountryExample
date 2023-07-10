@@ -1,0 +1,88 @@
+# .NET Core
+## Build output
+bin/
+obj/
+
+## .NET Core local settings
+/.vscode
+/.vs
+
+## Visual Studio Code
+.vscode/
+
+## NuGet
+**/project.lock.json
+**/*.nuget.props
+**/*.nuget.targets
+
+## Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Mm]emoryTestResults/
+[Tt]est[Rr]esults/
+nupkg/
+paket-files/
+*.nupkg
+*.snupkg
+*.[Cc]rashlytics
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Visual Studio IntelliSense
+.vscode/
+*.sln.ide/
+
+## Tools
+install/
+output/
+packages/
+
+## Tests
+**/TestResults/
+*.testsettings
+*.testhost
+*.trx
+
+## Templating
+*.template.config/template.json
+
+## StyleCop
+StyleCopReport.xml
+
+## Windows Azure Build Output
+csx/
+*.build.csdef
+
+## Windows Azure Emulator
+ecf/
+rcf/
+
+## TeamCity
+_TeamCity*
+
+## Xamarin
+**/bin/
+**/obj/
+**/*.userprefs
+**/project.lock.json
+*.apk
+*.ap_
+
+## Others
+ClientApp/node_modules/
+ClientApp/dist/
+bower_components/
+npm-debug.log
+yarn-error.log
+yarn.lock
+*.swp
