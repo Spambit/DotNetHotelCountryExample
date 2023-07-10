@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{89326160-04B2-44DF-A46A-C707ABA70BF4}|https">
+  <MonoDevelop.Ide.ItemProperties.WeatherForcast.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dto/HotelDtoBase.cs">
+    <Files>
+      <File FileName="Controllers/CountriesController.cs" Line="17" Column="37" />
+      <File FileName="Repository/Contracts/IGenericRepository.cs" Line="12" Column="17" />
+      <File FileName="Repository/Contracts/ICountriesRepository.cs" Line="9" Column="43" />
+      <File FileName="Repository/CountryRepository.cs" Line="13" Column="81" />
+      <File FileName="Repository/GenericRepository.cs" Line="12" Column="4" />
+      <File FileName="Program.cs" Line="43" Column="66" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Dto/CreateCountryDto.cs" Line="3" Column="46" />
+      <File FileName="Dto/CountryDtoBase.cs" Line="6" Column="24" />
+      <File FileName="Dto/UpdateCountryDto.cs" Line="6" Column="35" />
+      <File FileName="Dto/HotelDtoBase.cs" Line="21" Column="32" />
+      <File FileName="Dto/MapperConfig.cs" Line="16" Column="44" />
+      <File FileName="Dto/GetCountryDto.cs" Line="9" Column="54" />
+      <File FileName="Repository/NotFoundException.cs" Line="8" Column="58" />
+      <File FileName="Repository/Contracts/EmptyInterface.cs" Line="9" Column="22" />
+      <File FileName="Controllers/CountriesController (copy).cs" Line="66" Column="74" />
+      <File FileName="Controllers/UpdateHotelDto.cs" Line="8" Column="2" />
+      <File FileName="Repository/HotelRepository.cs" Line="7" Column="75" />
+      <File FileName="Data/Hotel.cs" Line="12" Column="45" />
+      <File FileName="Data/Country.cs" Line="8" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherForcast.API" expanded="True">
+            <Node name="Configurations" expanded="True" />
+            <Node name="Exceptions" expanded="True" />
+            <Node name="WeatherForcast.API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HotelsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Dto" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="Contracts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

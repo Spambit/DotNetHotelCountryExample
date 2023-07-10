@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForcast.API", "WeatherForcast.API.csproj", "{89326160-04B2-44DF-A46A-C707ABA70BF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceptions", "Exceptions", "{F586ABC6-E8C3-4740-B989-861CBEE72E43}"
+	ProjectSection(SolutionItems) = preProject
+		NotFoundException.cs = NotFoundException.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{32B0E53C-027D-408D-9CD7-4ADD45E2A273}"
+	ProjectSection(SolutionItems) = preProject
+		MapperConfig.cs = MapperConfig.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89326160-04B2-44DF-A46A-C707ABA70BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89326160-04B2-44DF-A46A-C707ABA70BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89326160-04B2-44DF-A46A-C707ABA70BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89326160-04B2-44DF-A46A-C707ABA70BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E126706F-4852-4658-9C5B-B28431117B98}
+	EndGlobalSection
+EndGlobal
